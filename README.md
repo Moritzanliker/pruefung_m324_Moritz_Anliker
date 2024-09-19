@@ -1,1 +1,1 @@
-# pruefung_m324_Moritz_Anliker
+# Prüfung M324
