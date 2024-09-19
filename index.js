@@ -14,7 +14,7 @@ function calculate(a, b, operation) {
     } else {
       throw new Error('Invalid operation');
     }
-  }
+  }  
   
   module.exports = calculate;
   
