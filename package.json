@@ -11,7 +11,7 @@
     "lint": "eslint .",
     "format": "prettier --write .",
     "format-check": "prettier --check .",
-    "test": "mocha",
+    "test": "node --experimental-vm-modules node_modules/.bin/mocha ./",
     "start": "node index.js"
   }
 }
